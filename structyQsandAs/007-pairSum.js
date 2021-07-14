@@ -13,6 +13,7 @@ const pairSum = (numbers, targetSum) => {
 pairSum([3, 2, 5, 4, 1], 8) // [2, 0]
 
 // Note: 
+// n = length of array
 // Time: O(n),
-
+// Space: O(n)
 
